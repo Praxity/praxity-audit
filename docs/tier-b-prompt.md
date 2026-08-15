@@ -32,7 +32,7 @@ State the evidence methods on every item: `rendered`, `interaction`,
 - Use `screen-reader` only for a named action whose unresolved question is the
   resulting speech. Name and version the tested pairing, such as VoiceOver +
   Safari or NVDA + Chromium. A duplicate-speech claim requires the exact target
-  phrase, a bounded speech-start trace, and a clean comparison that announces
+  phrase, a bounded speech-event trace, and a clean comparison that announces
   the phrase once. Do not infer duplication merely because two announcement
   channels exist or because the last-phrase value repeats.
 - Contextual authoring questions are Tier C, not Tier B. A screen reader cannot
