@@ -40,9 +40,6 @@ Tier B prepares a local evidence file for a separate LLM review. Luna at maximum
 reasoning effort was used during testing. You choose whether to send the file
 and which results to accept.
 
-Tier C would review whether the content, structure, and experience make sense in
-context. It is not part of this alpha.
-
 ## Quick start
 
 Requirements: Node 22.18+ and pnpm 11.5.3.

@@ -155,9 +155,6 @@ Run the same command against a clean version that announces the expected phrase
 once. Compare the two Markdown files. More speech-event clusters in the
 suspected version are a signal for review, not proof by themselves.
 
-Heading-level appropriateness and similar authored-content questions remain
-Tier C. A screen reader can repeat the level but cannot determine author intent.
-
 ## As an agent hook
 
 Paste into a repo's `AGENTS.md`:
